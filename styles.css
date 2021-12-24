@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'QuentinRegular';
+  src: url('QuentinRegular.eot?#iefix') format('embedded-opentype'),  url('QuentinRegular.otf')  format('opentype'),
+	     url('QuentinRegular.woff') format('woff'), url('QuentinRegular.ttf')  format('truetype'), url('QuentinRegular.svg#QuentinRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
